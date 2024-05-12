@@ -1,4 +1,5 @@
-## Projeto ChatBot
+## Projeto ChatBot c![RobotHelloGIF](https://github.com/antoniojose2023/ChatBotAndroid/assets/92251761/166efb15-2f43-4721-9239-33fbc18b6f2a)
+
 
 Este projeto foi desenvolvido utilizando a linguagem kotlin, para a construção desta aplicação foi consumida a api do GEMINI. Através do uso desta api foi possível obter uma geração de conteúdos como resposta, através de uma entrada de dados (prompts).
 O aplicativo é bem simples possui duas telas, tela de abertura do aplicativo e outra interface que nos permite inserir os prompts que são por exemplo uma determinada pergunta que o usuário faz, envia através do botão enviar e em alguns segundo obterá uma resposta.
