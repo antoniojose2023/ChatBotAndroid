@@ -16,5 +16,5 @@ O aplicativo é bem simples possui duas telas, tela de abertura do aplicativo e 
 - Tela principal da aplicação ↘️
 
 <div align="left">
-     <img src="https://github.com/antoniojose2023/ChatBotAndroid/assets/92251761/6825b83c-d3db-4338-b1e0-e451e754ac10"
+     <img src="https://github.com/antoniojose2023/ChatBotAndroid/assets/92251761/c26abdfa-a5db-471b-be67-258c3a57ef15"
 </div>
